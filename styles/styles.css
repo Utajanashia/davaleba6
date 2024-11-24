@@ -1,0 +1,115 @@
+body{
+    font-family: "Roboto", sans-serif;
+}
+
+
+p{
+    font-size: 17px;
+    color: #636060;
+     font-weight: 400;
+     display: inline-block;
+}
+
+
+.didi{
+    background-image: url(../images6/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;
+height: 606px;
+
+
+}
+
+
+.cxeli{
+    font-size: 29px; color: black;
+}
+
+.d{
+    font-size: 17px;
+    color: #636060;
+     font-weight: 400;
+}
+
+h1{
+    color: white;
+    font-size: 79px;
+    padding-left: 407px;
+    padding-top: 338px;
+    padding-bottom: 277px;
+}
+
+.ESRAGACWAMEBA{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 235px !important; 
+    align-content: flex-start;
+    
+  
+    
+}
+
+
+.debilizmi{
+  font-size: 20px; color:#636060 
+
+}
+
+
+
+.cardi{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width: 286px;
+}
+
+
+
+.cardish2{
+    font-size: 19px; color: #636060;
+}
+
+.cardish3{
+    font-size: 18px; width: 286px; font-weight:400; color: lightslategray;
+}
+
+
+.dididivi{
+    display: flex;
+    flex-wrap: wrap;
+   gap: 10px;
+  
+    
+}
+
+
+.didiseqcia{
+
+    display: flex;
+   align-items: flex-start;
+    flex-direction: row;
+    justify-content: space-around;
+    
+    margin-top:25px;
+}
+
+
+
+.fotoc{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+
+
+.qveda{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    gap: 10px;
+}
+
