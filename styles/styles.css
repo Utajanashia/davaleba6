@@ -1,115 +1,109 @@
-body{
-    font-family: "Roboto", sans-serif;
+body {
+  font-family: 'Roboto', sans-serif;
 }
 
-
-p{
-    font-size: 17px;
-    color: #636060;
-     font-weight: 400;
-     display: inline-block;
+.header {
+  display: flex;
+  justify-content: flex-end;
+  padding: 20px 50px;
 }
 
-
-.didi{
-    background-image: url(../images6/Rectangle\ 1.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    width: 100%;
-height: 606px;
-
-
+p {
+  font-size: 17px;
+  color: #636060;
+  font-weight: 400;
+  display: inline-block;
 }
 
-
-.cxeli{
-    font-size: 29px; color: black;
+.didi {
+  background-image: url(../images6/Rectangle\ 1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 606px;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.d{
-    font-size: 17px;
-    color: #636060;
-     font-weight: 400;
+h1 {
+  color: white;
+  font-size: 79px;
 }
 
-h1{
-    color: white;
-    font-size: 79px;
-    padding-left: 407px;
-    padding-top: 338px;
-    padding-bottom: 277px;
+.cxeli {
+  font-size: 29px;
+  color: black;
 }
 
-.ESRAGACWAMEBA{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    width: 235px !important; 
-    align-content: flex-start;
-    
-  
-    
+.d {
+  font-size: 17px;
+  color: #636060;
+  font-weight: 400;
 }
 
-
-.debilizmi{
-  font-size: 20px; color:#636060 
-
+.ESRAGACWAMEBA {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 235px;
 }
 
-
-
-.cardi{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    width: 286px;
+.debilizmi {
+  font-size: 20px;
+  color: #636060;
 }
 
-
-
-.cardish2{
-    font-size: 19px; color: #636060;
+.cardi {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  width: 286px;
 }
 
-.cardish3{
-    font-size: 18px; width: 286px; font-weight:400; color: lightslategray;
+.cardish2 {
+  font-size: 19px;
+  color: #636060;
 }
 
-
-.dididivi{
-    display: flex;
-    flex-wrap: wrap;
-   gap: 10px;
-  
-    
+.cardish3 {
+  font-size: 18px;
+  width: 286px;
+  font-weight: 400;
+  color: lightslategray;
 }
 
-
-.didiseqcia{
-
-    display: flex;
-   align-items: flex-start;
-    flex-direction: row;
-    justify-content: space-around;
-    
-    margin-top:25px;
+.dididivi {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  width: 900px;
 }
 
-
-
-.fotoc{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    
+.didiseqcia {
+  margin-top: 25px;
 }
 
-
-.qveda{
-    display: flex;
-    flex-wrap: wrap;
-    flex-direction: row;
-    gap: 10px;
+.fotoc {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
 
+.qveda {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.container {
+  max-width: 1300px;
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
